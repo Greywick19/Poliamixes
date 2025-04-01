@@ -118,7 +118,7 @@ TextureImporter:
         width: 302
         height: 244
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -139,7 +139,7 @@ TextureImporter:
         width: 302
         height: 244
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -160,7 +160,7 @@ TextureImporter:
         width: 302
         height: 244
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,6 +168,279 @@ TextureImporter:
       bones: []
       spriteID: 6ebd85b3f6b173d4193161817d075d09
       internalID: -1125091845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 821
+        width: 302
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b88cb3fe26e745b4e323ab9551716
+      internalID: 1603721233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espaldas
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 835
+        width: 302
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927e8787f0e2384d85f8a2058f267f5
+      internalID: 541665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mimido
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 830
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.50724095, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6e70c64a72ec442ace14cf0877129b
+      internalID: -910663558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parpadeo ranoso 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 287
+        height: 244
+      alignment: 9
+      pivot: {x: 0.46717483, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e078bc92ce85404f8a1dc4fbafaa080
+      internalID: 597528791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Troste
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 552
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.48698667, y: 0.5035791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb719e483b9de46a0e02570fa5f82d
+      internalID: 55101190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dudoso
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 537
+        width: 302
+        height: 250
+      alignment: 9
+      pivot: {x: 0.51770765, y: 0.43431005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f698ecafbd8769d4cb99da5e6793b9d6
+      internalID: -518284638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sorprendido
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 537
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5134148, y: 0.5124999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409d68401824d054d992e14b61dd2ca5
+      internalID: -1357118166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enojao
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 539
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5134148, y: 0.5124999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b74c70b0c1d8654da4f980cff864b8a
+      internalID: -92360847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hablado 1
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 257
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5134148, y: 0.5124999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc708e7404eb74c47b51fede10bc56ad
+      internalID: 594897681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feli
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 253
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5134148, y: 0.5124999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b055c9ba657b2459536d9097291377
+      internalID: 2099995495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parpadeo
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 272
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5097662, y: 0.47733545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e453e74a9802be458b1b3013b4a46c4
+      internalID: 1148456575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parpadeo ranoso 1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 254
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5134148, y: 0.5124999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7338dd25da9fc498f36fd0d03b6535
+      internalID: 772611668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hablado
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 302
+        height: 244
+      alignment: 9
+      pivot: {x: 0.51203555, y: 0.5005505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e56a5bf3b7a1478d8b9b98f1fd08f
+      internalID: 257710158
       vertices: []
       indices: 
       edges: []
@@ -186,6 +459,19 @@ TextureImporter:
       Base: -1125091845
       Caminado 1: -197578666
       Caminado 2: 795235855
+      Dudoso: -518284638
+      Enojao: -92360847
+      Espaldas: 541665
+      Feli: 2099995495
+      Hablado: 257710158
+      Hablado 1: 594897681
+      Mimido: -910663558
+      Parpadeo: 1148456575
+      Parpadeo ranoso 1: 772611668
+      Parpadeo ranoso 2: 597528791
+      Salto: 1603721233
+      Sorprendido: -1357118166
+      Troste: 55101190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
