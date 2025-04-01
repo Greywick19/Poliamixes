@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 54f3bf44ad4e7a54c9e72fc250d581c4
+guid: 564febce6e287d94285c4fc35de2ea17
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -81,19 +81,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -119,30 +106,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Close
+      name: Cuadro de Txt
       rect:
         serializedVersion: 2
-        x: 58
-        y: 628
-        width: 378
-        height: 380
+        x: 39
+        y: 1643
+        width: 1645
+        height: 470
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,8 +124,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41e89289874279e478d123694210590c
-      internalID: 518691819
+      spriteID: 1f1cca76bcc88524597d4c84d87fa087
+      internalID: -838691998
       vertices: []
       indices: 
       edges: []
@@ -160,10 +134,10 @@ TextureImporter:
       name: Menu
       rect:
         serializedVersion: 2
-        x: 59
-        y: 176
-        width: 378
-        height: 380
+        x: 2962
+        y: 567
+        width: 796
+        height: 1516
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6ba63815e9088b419d27df0df615e62
-      internalID: -789335308
+      spriteID: b94e27397ca6918428c4c694be3bb7eb
+      internalID: -2013171431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Music
+      name: Boton Mute
       rect:
         serializedVersion: 2
-        x: 636
-        y: 177
-        width: 378
-        height: 380
+        x: 1998
+        y: 1193
+        width: 914
+        height: 913
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aeeb4e8216ec7f42987ce94c2c0cc0f
-      internalID: -1094373012
+      spriteID: fb30de543b311a24e98b35a9c2b1c00c
+      internalID: 1550707626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jugar
+      name: Boton Menu
       rect:
         serializedVersion: 2
-        x: 615
-        y: 675
-        width: 1010
-        height: 286
+        x: 1027
+        y: 679
+        width: 914
+        height: 913
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,8 +187,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 686d612597f2b6747aa74dab13156de4
-      internalID: -1128334515
+      spriteID: 2af4100d7227528469966aafb5446d99
+      internalID: -1845158536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton Play
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 679
+        width: 913
+        height: 913
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1394e5504b1134e9cdf4c6590c7a53
+      internalID: 1450273744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton Jugar
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 99
+        width: 1638
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39e1546f5552442bc26a7694b831af
+      internalID: -447899418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton Ayuda
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 98
+        width: 893
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c446845d86e177498f5c108751bfd2b
+      internalID: 373810207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton Salir
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 99
+        width: 893
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c938e40b08207b47b9fe59df17ba82b
+      internalID: 1673535677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Botn Resumir
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 498
+        width: 893
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e8b073ff9b6a47a706232811e4d58
+      internalID: -284318044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton Reiniciar
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 854
+        width: 893
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710fa876bfe6bc347a06f91b34b2db96
+      internalID: 1414309768
       vertices: []
       indices: 
       edges: []
@@ -222,7 +322,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 97af8410878b26946b166669ef14ae45
+    spriteID: a67eeeda3f4407c4da4d721ba7287fdc
     internalID: 0
     vertices: []
     indices: 
@@ -230,10 +330,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Close: 518691819
-      Jugar: -1128334515
-      Menu: -789335308
-      Music: -1094373012
+      Botn Resumir: -284318044
+      Boton Ayuda: 373810207
+      Boton Jugar: -447899418
+      Boton Menu: -1845158536
+      Boton Mute: 1550707626
+      Boton Play: 1450273744
+      Boton Reiniciar: 1414309768
+      Boton Salir: 1673535677
+      Cuadro de Txt: -838691998
+      Menu: -2013171431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
