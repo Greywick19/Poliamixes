@@ -108,18 +108,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Caminado 1
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 835
+        width: 302
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef27b76cb30274e94302e0985b915f
+      internalID: -197578666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Caminado 2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 835
+        width: 302
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1370b7f73cf140142aed2c12bbdf0a72
+      internalID: 795235855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 261
+        width: 302
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd85b3f6b173d4193161817d075d09
+      internalID: -1125091845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fa22669156b9db740922579f7eb8715b
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base: -1125091845
+      Caminado 1: -197578666
+      Caminado 2: 795235855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
