@@ -108,18 +108,194 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sprites_rana hijo_Salto
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 576
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f2496186e857243ab8680b291b1e0d
+      internalID: 1961988391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_rana hijo Espalda
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 577
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bec87a03301094e9dd2c253608eea4
+      internalID: 756043082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_rana hijo_Caminado 1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 843
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b43b03bde43d90409c5f4128e2d5264
+      internalID: 931175879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_rana hijo_Caminado 2
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 848
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b88d555f68f68d47ab7cad1086c2435
+      internalID: 68654387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_rana hijo_Base 1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 846
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56922716c46065145acf9e7413a6470a
+      internalID: -307251187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_rana hijo_Base 2
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 851
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0b17d0c7a26c5469594e7d54c46605
+      internalID: -1756195535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprites_rana hijo_Feliz
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 857
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90745b10311b344e8390dccaec3054f
+      internalID: 161342106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "sprites_rana hijo_Gui\xF1o"
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 862
+        width: 256
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35a7d4b590e764e9cf180ac3c2c948
+      internalID: -864024409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d96e90e85f918eb478dafdcd03fbde59
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprites_rana hijo Espalda: 756043082
+      sprites_rana hijo_Base 1: -307251187
+      sprites_rana hijo_Base 2: -1756195535
+      sprites_rana hijo_Caminado 1: 931175879
+      sprites_rana hijo_Caminado 2: 68654387
+      sprites_rana hijo_Feliz: 161342106
+      "sprites_rana hijo_Gui\xF1o": -864024409
+      sprites_rana hijo_Salto: 1961988391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
